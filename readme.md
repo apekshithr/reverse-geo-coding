@@ -6,7 +6,7 @@ Reverse Geocdding API is a REST API that is designed to use third part Map servi
 
 ## API
 - GET /api/address - This operation expects two query paramater i.e longitude and latitude to resolve it to an address.
-- GET /api/previous-addresses - This operation provides the last 10 resolved address. At the momemnt the number is not configurable and it provides only the latest 10.
+- GET /api/previous-addresses - This operation provides the last 10 resolved address. At the momemnt the number is not configurable and it provides only the latest 10
 
 ## Installation
 
